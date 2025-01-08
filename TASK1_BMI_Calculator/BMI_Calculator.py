@@ -51,7 +51,7 @@ category_counts = bmi_data["Category"].value_counts()
 # Plotting the pie chart
 category_counts.plot(kind="pie", autopct='%1.1f%%', startangle=90, colors=["lightblue", "green", "orange", "red"])
 # Adding title
-plt.title("BMI Category Distribution"
+plt.title("BMI Category Distribution")
 # Display the plot
 plt.show()
 
