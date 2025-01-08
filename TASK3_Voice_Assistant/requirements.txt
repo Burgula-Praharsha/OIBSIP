@@ -1,0 +1,6 @@
+#Required Libraries
+
+speechrecognition
+pyttsx3
+pyaudio
+webbrowser

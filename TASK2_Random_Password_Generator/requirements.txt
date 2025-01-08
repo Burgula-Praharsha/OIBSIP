@@ -1,0 +1,7 @@
+#Required Libraries
+
+tkinter
+pyperclip
+random
+string
+re

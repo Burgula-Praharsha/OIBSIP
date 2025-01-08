@@ -1,0 +1,20 @@
+Name,Weight,Height,BMI,Category
+Peter,95,1.65,34.89439853,Obese
+Alice,45,1.7,15.57093426,Underweight
+Felix,60,1.7,20.76124567,Normal weight
+Bob,48,1.8,14.81481481,Underweight
+Grace,62,72,0.011959877,Underweight
+Charlie,50,1.75,16.32653061,Underweight
+Henry,72,1.8,22.22222222,Normal weight
+Eva,43,1.65,15.7943067,Underweight
+Isabella,58,1.65,21.30394858,Normal weight
+Nathan,95,1.7,32.87197232,Obese
+Jack,68,1.75,22.20408163,Normal weight
+Jack,68,1.75,22.20408163,Normal weight
+Olivia,100,1.65,36.73094582,Obese
+Karen,63,1.7,21.79930796,Normal weight
+Liam,70,1.75,22.85714286,Normal weight
+Neon,98,1.6,38.28125,Obese
+Mona,55,1.6,21.484375,Normal weight
+Mona,55,1.65,20.2020202,Normal weight
+Harsha,56,1.56,23.01117686,Normal weight
