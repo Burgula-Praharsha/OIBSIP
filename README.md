@@ -9,9 +9,9 @@ Key Features:
 Run Instructions:
 1)Clone the repository.
 2)Install dependencies:
--pip install -r requirements.txt
+pip install -r requirements.txt
 3)Execute the script:
--BMI_Calculator.py
+BMI_Calculator.py
 
 2. Random Password Generator
 Generates secure passwords based on user preferences and evaluates their strength.
@@ -23,9 +23,9 @@ Key Features:
 Run Instructions:
 1)Clone the repository.
 2)Install dependencies:
--pip install -r requirements.txt
+pip install -r requirements.txt
 3)Execute the script:
--python Random_Password_Generator.py
+python Random_Password_Generator.py
 
 3. Voice Assistant
 A Python-based voice assistant for recognizing voice commands and performing web searches.
@@ -35,7 +35,7 @@ Key Features:
 Run Instructions:
 1)Clone the repository.
 2)Install dependencies:
--pip install -r requirements.txt
+pip install -r requirements.txt
 3)xecute the script:
--python Voice_Assistant.py
+python Voice_Assistant.py
 
